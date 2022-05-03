@@ -468,11 +468,11 @@ void main()
 <br/>
 
 - BEST 정렬 : 삽입정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_best_insert.png?raw=true" height=500px" width="1100px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_best_insert.png?raw=true" height=424px" width="817px"></p>
 <br/>
 
 - WORST 정렬 : 버블정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_worst_bubble.png?raw=true" height="500px" width="1100px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_worst_bubble.png?raw=true" height="424px" width="817px"></p>
 <br/>
 
 ## 결론
