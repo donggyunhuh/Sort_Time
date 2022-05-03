@@ -438,41 +438,41 @@ void main()
 
 ### 랜덤 데이터인 경우
 
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/ramdom_case.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/ramdom_case.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 - BEST 정렬 : 퀵정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/random_best_quick.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/random_best_quick.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 - WORST 정렬 : 버블정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/random_worst_bubble.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/random_worst_bubble.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 ### 정렬 데이터인 경우
 
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/sorted_case.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/sorted_case.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 - BEST 정렬 : 삽입정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/sorted_best_insert.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/sorted_best_insert.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 - WORST 정렬 : 버블정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/sorted_worst_bubble.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/sorted_worst_bubble.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 ### 역 정렬 데이터인 경우
 
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_case.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_case.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 - BEST 정렬 : 삽입정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_best_insert.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_best_insert.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 - WORST 정렬 : 버블정렬
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_worst_bubble.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_worst_bubble.png?raw=true" height="450px" width="800px"></p>
 <br/>
 
 ## 결론
