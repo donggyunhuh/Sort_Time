@@ -464,7 +464,7 @@ void main()
 
 ### 역 정렬 데이터인 경우
 
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_case.png?raw=true" height="450px" width="800px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_case.png?raw=true" height="500px" width="895px"></p>
 <br/>
 
 - BEST 정렬 : 삽입정렬
