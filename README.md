@@ -525,7 +525,7 @@ void main()
 - 정렬된 데이터인 경우
 <p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/log2/sorted_log2.png?raw=true" height="416px" width="954px"></p>
 
-> 선형적으로 나타난다!
+> 버블정렬, 선택정렬이 선형적으로 나타난다!
 
 > 삽입정렬은 데이터양이 적은 경우에는 비선형적이다가 점차 선형적 모습을 띈다.
 > <br/>
@@ -533,11 +533,11 @@ void main()
 - 역 정렬된 데이터인 경우
 <p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/log2/reverse_log2.png?raw=true" height="416px" width="954px"></p>
 
-> 선형적으로 나타난다!
+> 버블정렬, 선택정렬이 선형적으로 나타난다!
 
 > 삽입정렬은 데이터양이 적은 경우에는 비선형적이다가 점차 선형적 모습을 띈다.
 > <br/>
 
 ### 결론
 
-- **수행시간에 log₂를 취한 결과를 나타내고, 그래프를 만들어 보았을때, 시간복잡도가 O(n²)이므로 그래프는 선형적 양상을 띈다!**
+- **수행시간에 log₂를 취한 결과를 나타내고, 그래프를 만들어 보았을때, 시간복잡도가 O(n²)이므로 그래프는 선형적 모습을 띈다!**
