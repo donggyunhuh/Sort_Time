@@ -517,13 +517,13 @@ void main()
 <br/>
 
 - 랜덤 데이터인 경우
-<p align="center"><img src="" height="416px" width="954px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/log2/random_log2.png?raw=true" height="416px" width="954px"></p>
 
 > 선형적으로 나타난다!
 > <br/>
 
 - 정렬된 데이터인 경우
-<p align="center"><img src="" height="416px" width="954px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/log2/sorted_log2.png?raw=true" height="416px" width="954px"></p>
 
 > 선형적으로 나타난다!
 
@@ -531,7 +531,7 @@ void main()
 > <br/>
 
 - 역 정렬된 데이터인 경우
-<p align="center"><img src="" height="416px" width="954px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/log2/reverse_log2.png?raw=true" height="416px" width="954px"></p>
 
 > 선형적으로 나타난다!
 
