@@ -420,16 +420,16 @@ void main()
 - 입력 데이터 수 [32, 64, 128, 256, ..., 1048576]
 
 - 랜덤 데이터인 경우
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/exel_arrangement/random.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/exel_arrangement/random.png?raw=true" height="651px" width="777px"></p>
 
 <br/>
 
 - 정렬 데이터인 경우
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/exel_arrangement/sorted.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/exel_arrangement/sorted.png?raw=true" height="651px" width="777px"></p>
 <br/>
 
 - 역 정렬 데이터인 경우
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/exel_arrangement/reverse.png?raw=true" height="450px" width="750px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/exel_arrangement/reverse.png?raw=true" height="651px" width="777px"></p>
 <br/>
 
 ## 알고리즘 분석
@@ -464,7 +464,7 @@ void main()
 
 ### 역 정렬 데이터인 경우
 
-<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_case.png?raw=true" height="500px" width="1100px"></p>
+<p align="center"><img src="https://github.com/donggyunhuh/Sort_Time/blob/master/graph/reverse_case.png?raw=true" height="492px" width="895px"></p>
 <br/>
 
 - BEST 정렬 : 삽입정렬
